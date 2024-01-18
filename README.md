@@ -2,6 +2,6 @@
 
 A mockup website design for a private financial company
 
-## Features
+## Preview
 
 ![preview](capital-loans.png)
